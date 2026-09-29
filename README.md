@@ -13,11 +13,11 @@ O projeto tem como objetivo praticar conceitos de programação em Java, incluin
 
 ## Melhorias a implementar
 
-* [ ] Implementar tratamento de exceções para entradas inválidas.
-* [ ] Validar valores de peso e altura antes de realizar o cálculo.
-* [ ] Permitir a utilização de vírgula (`,`) como separador decimal, além do ponto (`.`).
-* [ ] Melhorar o tratamento de entradas vazias ou não numéricas.
-* [ ] Melhorar as mensagens apresentadas ao usuário em caso de erro.
+* [x] Implementar tratamento de exceções para entradas inválidas.
+* [x] Validar valores de peso e altura antes de realizar o cálculo.
+* [x] Permitir a utilização de vírgula (`,`) como separador decimal, além do ponto (`.`).
+* [x] Melhorar o tratamento de entradas vazias ou não numéricas.
+* [x] Melhorar as mensagens apresentadas ao usuário em caso de erro.
 
 ## Tecnologias
 
